@@ -1,0 +1,20 @@
+[
+  {
+    "id": "library-plan",
+    "title": "Example City library plan",
+    "statement": "Example City plans to extend library opening hours in a fictional pilot.",
+    "source_url": "https://example.org/library-plan"
+  },
+  {
+    "id": "library-survey",
+    "title": "Example City library survey",
+    "statement": "A fictional survey asks residents which library hours would be most useful.",
+    "source_url": "https://example.net/library-survey"
+  },
+  {
+    "id": "transit-plan",
+    "title": "Example City transit plan",
+    "statement": "Example City considers a fictional weekend bus pilot.",
+    "source_url": "https://example.com/transit-plan"
+  }
+]
